@@ -57,7 +57,8 @@
 
 ###
 
-<img src="https://github.com/Mikaelpeganinguem/Mikaelpeganinguem/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Mikaelpeganinguem/Mikaelpeganinguem/blob/main/dist/snake.svg)
+
 
 ###
 
