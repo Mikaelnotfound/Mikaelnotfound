@@ -57,6 +57,10 @@
 
 ###
 
+<img src="https://github.com/Mikaelpeganinguem/Mikaelpeganinguem/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="left">Contacts</h2>
 
 ###
