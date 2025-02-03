@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Mikael, a Systems Development student at IFAL - Maceió. Always interested in learning, and always eager to learn new technologies.</h4>
+<h4 align="left">I'm Mikael, a Systems Development student at IFAL - Maceió. Always interested in learning. I'm looking forward to learning new technologies.</h4>
 
 ###
 
