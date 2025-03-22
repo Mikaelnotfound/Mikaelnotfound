@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">- Express<br>- MySQL<br>- Docker - React Native</h4>
+<h4 align="left">- Express<br>- MySQL<br>- Docker<br>- React Native</h4>
 
 ###
 
