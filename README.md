@@ -55,10 +55,6 @@
 
 ###
 
-<img src="https://github.com/Mikaelnotfound/Mikaelnotfound/blob/main/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Contacts</h2>
 
 ###
