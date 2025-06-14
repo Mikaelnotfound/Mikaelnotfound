@@ -15,7 +15,7 @@ jobs:
       - name: Gerar a animação da cobra
         uses: Platane/snk@master
         with:
-          github_user_name: Mikaelpeganinguem
+          github_user_name: Mikaelnotfound
           svg_out_path: "snake.svg"
 
       - name: Verificar se o arquivo snake.svg foi gerado
