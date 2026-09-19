@@ -1,6 +1,6 @@
 # Sobre mim:
 - Explorando novas tecnologias e aprofundando conhecimentos.<br>
-- 1ºP. Bacharelado em Sistemas da Informação - IFAL Campus Maceió.<br>
+- Bacharelado em Sistemas da Informação - IFAL Campus Maceió.<br>
 - Sempre aprendendo e constantemente evoluindo.<br>
 
 
